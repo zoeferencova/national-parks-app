@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 800px;
+}
+
+.hidden {
+	display: none;
+}
+
+#park-form legend {
+	margin-bottom: 15px;
+}
+
+#park-form select {
+	display: block;
+	margin: 15px 0px;
+}
+
+.park-image {
+	max-height: 200px;
+}
