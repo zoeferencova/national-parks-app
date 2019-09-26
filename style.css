@@ -27,3 +27,12 @@ body {
 .park-image {
 	max-height: 200px;
 }
+
+#result-list {
+	list-style: none;
+	padding-left: 0;
+}
+
+#result-list li {
+	padding-bottom: 25px ;
+}
